@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 **[쇼핑몰 프로젝트](https://github.com/lolu1032/shop)**: 1인 개발 프로젝트로, 웹 기반 쇼핑몰을 구축했습니다.
+- 🔭 **[쇼핑몰 프로젝트](https://github.com/lolu1032/shop-project.git)**: 1인 개발 프로젝트로, 웹 기반 쇼핑몰을 구축했습니다.
 
 - 🌱 **[국비학원]**: 기업 요구사항에 기반한 빅데이터 활용 및 풀스택 개발자 양성 교육을 받고 있습니다.
 
@@ -15,7 +15,7 @@
 
 - 📫 **연락처**: [soowkw@naver.com](mailto:soowkw@naver.com)
 
-<h3 align="left">🛠️ 사용 기술 및 도구</h3>
+<h3 align="left">🛠️ 언어 및 도구</h3>
 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
