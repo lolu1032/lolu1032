@@ -1,45 +1,39 @@
-<h1 align="center">👋 안녕하세요. 백엔드 개발자 박성호입니다.</h1>
-<h3 align="center">성장중인 백엔드 개발자</h3>
+# 박성호 | Backend Developer 👨‍💻
 
-<p align="center">
-  <a href="https://github.com/lolu1032/shop">
-    <img src="https://img.shields.io/badge/프로젝트-쇼핑몰-blue" alt="쇼핑몰 프로젝트">
-  </a>
-</p>
+Java 기반으로 공부 중인 백엔드 개발자입니다. Spring Boot와 여러 백엔드 기술들을 활용하여 다양한 프로젝트를 진행하고 있으며, RESTful API 설계와 데이터베이스 연동에 강점이 있습니다. 새로운 기술을 익히고 실제 프로젝트에 적용하는 것을 즐기며, 항상 성장을 추구하는 개발자가 되기 위해 노력하고 있습니다.
 
-- 🔭 **[쇼핑몰 프로젝트](https://github.com/lolu1032/shop-project.git)**: 1인 개발 프로젝트로, 웹 기반 쇼핑몰을 구축했습니다.(2024-04~2024-10)
+## 💻 기술 스택
+- **Backend**: Java, Spring Boot, MyBatis
+- **Database**: MySQL
+- **API**: RESTful API, Postman
+- **Frontend**: Thymeleaf,JSP
+- **Version Control**: Git, GitHub
 
-- 🌱 **[국비학원]**: 기업 요구사항에 기반한 빅데이터 활용 및 풀스택 개발자 양성 교육을 받고 있습니다.
+---
 
-- 💬 **현재 진행 중**: 1차 프로젝트로 쇼핑몰을 개발했으며, 2차 프로젝트로 ERP 시스템을 구축 중입니다.
+## 📌 프로젝트
+## 2024-07~2024-08 (한달 개발)
+### 1차 프로젝트: **쇼핑몰** (1인 개발)
+- **설명**: 사용자에게 다양한 상품을 제공하고, 장바구니 기능과 결제 시스템을 포함한 쇼핑몰 웹사이트를 개발하였습니다.
+- **기술 스택**: Java, Spring Legacy, MyBatis, JSP, MySQL
+- **GitHub 링크**: [쇼핑몰 프로젝트 링크](https://github.com/lolu1032/shop-project.git)
 
-- 📫 **연락처**: [soowkw@naver.com](mailto:soowkw@naver.com)
+---
+## 2024-08-21~2024-09-14
+### 2차 프로젝트: **ERP 시스템** (4인 개발)
+- **설명**: 팀 프로젝트로 ERP 시스템을 개발하였으며, 요구사항서를 기반으로 주문 및 입고 프로세스의 기능을 구현하였습니다.
+- **기여**: 입고 및 주문 프로세스에서 요구사항에 맞춘 CRUD 기능을 개발하였습니다.
+- **기술 스택**: Java, Spring Boot, MyBatis, MySQL,Thymeleaf
+- **GitHub 링크**: [ERP 시스템 프로젝트 링크](https://github.com/lolu1032/ERP_Service.git)
 
-<h3 align="left">🛠️ 언어 및 도구</h3>
+---
+## 2024-09-03~2024-09-10
+### 3차 프로젝트: **ToDoList** (1인 개발)
+- **설명**: 사용자가 할 일을 관리하고, 완료 여부를 체크할 수 있는 간단한 ToDoList 애플리케이션을 개발하였습니다.
+- **기술 스택**: Java, Spring Boot, MyBatis, Thymeleaf, MySQL,Restful API, Postman
+- **GitHub 링크**: [ToDoList 프로젝트 링크](https://github.com/lolu1032/todoList.git)
 
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-</p>
+---
+
+## 📫 연락처
+- **이메일**: soowkw@naver.com
