@@ -27,15 +27,8 @@ Java 기반으로 공부 중인 백엔드 개발자입니다. Spring Boot와 여
 - **GitHub 링크**: [ERP 시스템 프로젝트 링크](https://github.com/lolu1032/ERP_Service.git)
 
 ---
-## 2024-09-03~2024-09-10
-### 3차 프로젝트: **ToDoList** (1인 개발)
-- **설명**: 사용자가 할 일을 관리하고, 완료 여부를 체크할 수 있는 간단한 ToDoList 애플리케이션을 개발하였습니다.
-- **기술 스택**: Java, Spring Boot, MyBatis, Thymeleaf, MySQL,Restful API, Postman
-- **GitHub 링크**: [ToDoList 프로젝트 링크](https://github.com/lolu1032/todoList.git)
-
----
 ## 2024-09-16~현재 진행 중
-### 4차 프로젝트 **같이할래** (1인 개발)
+### 3차 프로젝트 **같이할래** (1인 개발)
 - **설명**: 블로그 형태의 게시글을 써서 공부, 토이프로젝트를 구하는 사이트 형식에 웹소캣을 이용하여 실시간으로 채팅을 통해 문의 또는 참여 의사를 알릴 수 있는 사이트를 개발 중입니다.
 - **기술 스택**: Java,Spring Boot,MySql,Redis,Thymeleaf,MyBatis,JPA,WebSocket,Spring Security
 - **GitHub 링크**: https://github.com/lolu1032/websocket-project.git
