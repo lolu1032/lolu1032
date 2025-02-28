@@ -18,5 +18,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+📂 **Projects**
+
+- 개인 공부 프로젝트: [블로그 프로젝트 백엔드](https://github.com/lolu1032/blog_project_backend)
+- 리액트 스터디 프로젝트: [React 스터디 프로젝트](https://github.com/lolu1032/React-Study.git)
+
+
 
 🔥 **"포기하지 않는 도전이 성장의 길이다!"**
