@@ -20,7 +20,8 @@
 ---
 📂 **Projects**
 
-- 개인 공부 프로젝트: [쇼핑몰 프로젝트 백엔드](https://github.com/lolu1032/blog_project_backend)
+- 중고거래 프로젝트 프론트: [중고거래 프로젝트 프론트](https://github.com/lolu1032/UsedTrade_project_frontend.git)
+- 중고거래 프로젝트 백엔드: [중고거래 프로젝트 백엔드](https://github.com/lolu1032/UsedTrade_project_backend.git)
 - 리액트 스터디 프로젝트: [React 스터디 프로젝트](https://github.com/lolu1032/React-Study.git)
 
 
