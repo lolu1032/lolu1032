@@ -6,11 +6,8 @@
 **Projects**
 
 - 쿠폰 API 프로젝트 : [쿠폰 API 프로젝트](https://github.com/lolu1032/side_project.git)
-- 중고거래 프로젝트 프론트: [중고거래 프로젝트 프론트](https://github.com/lolu1032/UsedTrade_project_frontend.git)
-- 중고거래 프로젝트 백엔드: [중고거래 프로젝트 백엔드](https://github.com/lolu1032/UsedTrade_project_backend.git)
+- AutoPR 프로젝트 : [AutoPR](https://github.com/lolu1032/AutoPR.git)
 - ERP 프로젝트 [ERP 프로젝트](https://github.com/lolu1032/ERP_Service.git)
 - ERP 리뉴얼 [ERP 리뉴얼 프로젝트](https://github.com/lolu1032/ERP-service-renewal.git)
-- 음식 랜덤 추첨 프로젝트 [음식 랜덤 추첨 프로젝트](https://github.com/lolu1032/Random-Food.git)
-
 
 **"포기하지 않는 도전이 성장의 길이다!"**
