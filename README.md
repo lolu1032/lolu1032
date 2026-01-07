@@ -13,13 +13,12 @@
 - **Language**: Java, JavaScript
 - **Framework**: Spring Boot, JPA, MyBatis
 - **Database**: MySQL, PostgreSQL, Redis
-- **Infra/Tools**: Docker, Nginx, GitHub Actions, k6, JMeter
+- **Infra/Tools**: Docker, GitHub Actions, JMeter
 
 ## Projects
 - 쿠폰 API 프로젝트 : [쿠폰 API 프로젝트](https://github.com/lolu1032/side_project.git)
 - AutoPR 프로젝트 : [AutoPR](https://github.com/lolu1032/AutoPR.git)
 - ERP 프로젝트 [ERP 프로젝트](https://github.com/lolu1032/ERP_Service.git)
 - ERP 리뉴얼 [ERP 리뉴얼 프로젝트](https://github.com/lolu1032/ERP-service-renewal.git)
-- 100일 챌린지 [100일 챌린지](https://github.com/lolu1032/100day_challenge.git)
 
 **"포기하지 않는 도전이 성장의 길이다!"**
