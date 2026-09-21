@@ -8,7 +8,6 @@ AI가 낸 결과를 믿지 않는 장치를 만듭니다.
 | [pantheon-skills](https://github.com/lolu1032/pantheon-skills) | 다른 모델의 공격에. 순환 루프 오분류 결함을 실제로 잡았습니다 |
 | [daedalus](https://github.com/lolu1032/daedalus) | PostgreSQL 실측 1,011회에. 흔들리는 실행 시간 대신 읽은 블록 수로 |
 | [taperun](https://github.com/lolu1032/taperun) | 시나리오의 expect 단계에. LLM 이 판정하지 않습니다 |
-| [Gotcha](https://github.com/lolu1032/Gotcha) | 에이전트가 놓친 것을 잡는 테스트 라우터 |
 
 
 `TypeScript` `Next.js` `Node` `Prisma` `PostgreSQL` `Redis` `Docker` `GitHub Actions`
